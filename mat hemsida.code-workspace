@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../grid layout uppgifter"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mat hemsida"
+	}
+}
